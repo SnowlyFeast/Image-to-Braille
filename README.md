@@ -7,3 +7,6 @@ For steam profile applications, I recommend using mask mode for grayscale,
 but if you are looking for large size braille, consider the sobel mask too.
 
 Download Executable : https://github.com/SnowlyFeast/Image-to-Braille/raw/master/Image%20to%20Breille.zip
+
+The information box has a size limit of 8000 bytes.
+Please check [Here](https://mothereff.in/byte-counter) to make sure they are not oversized.
