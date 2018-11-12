@@ -57,7 +57,7 @@ namespace Image_to_Braille
         private const string LOG_FILE_NAME = "./log.txt";
 
         //Source program path. Text file is embedded resource.
-        private const string PROGRAM_PATH = "Image_to_Braille.OpenCl Program.cl";
+        private const string PROGRAM_PATH = "Image_to_Braille.OpenCL Program.cl";
 
         public Form1()
         {
