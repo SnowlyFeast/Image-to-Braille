@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // 제어됩니다. 어셈블리와 관련된 정보를 수정하려면
 // 이러한 특성 값을 변경하세요.
 [assembly: AssemblyTitle("Image to Braille")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("This program converts the input image into Braille Unicode.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Image to Braille")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyCopyright("Copyright © 2018 Kyunghwan Oh")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
